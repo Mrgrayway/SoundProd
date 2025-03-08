@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Sample Post 1"
-date: 2025-01-05
+title: "День открытых дверей"
+date: 2025-03-08
 ---
-This is a test post.
+Всем привет! Заходите на сайт.
